@@ -1,0 +1,7 @@
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\bin\Debug\GlaserCalc.exe.config
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\bin\Debug\GlaserCalc.exe
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\bin\Debug\GlaserCalc.pdb
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\obj\Debug\GlaserCalc.csproj.CoreCompileInputs.cache
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\obj\Debug\GlaserCalc.exe
+c:\users\alland\source\repos\GlaserCalc\GlaserCalc\obj\Debug\GlaserCalc.pdb
+C:\Users\Alland\source\repos\GlaserCalc\GlaserCalc\obj\Debug\GlaserCalc.csprojAssemblyReference.cache
